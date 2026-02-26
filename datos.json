@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "producto": "Laptop",
+    "precio": 3200,
+    "categoria": "Tecnología"
+  },
+  {
+    "id": 2,
+    "producto": "Mouse",
+    "precio": 80,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 3,
+    "producto": "Teclado",
+    "precio": 150,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 4,
+    "producto": "Monitor",
+    "precio": 900,
+    "categoria": "Tecnología"
+  }
+]

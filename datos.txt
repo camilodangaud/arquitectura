@@ -1,0 +1,6 @@
+id,sexo,tipo_vehiculo
+1,M,Bicicleta
+2,F,Bicicleta EPAC (pedaleo asistido)
+3,M,Bicicleta
+4,F,
+5,M,Bicicleta EPAC (pedaleo asistido)
